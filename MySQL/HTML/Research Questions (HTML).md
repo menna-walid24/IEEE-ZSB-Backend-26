@@ -1,6 +1,6 @@
 **1- GET vs POST:**
-**GET:**
 
+**GET:**
 
  1-Data is visible to users .
  2-Sends form data **in the URL**
