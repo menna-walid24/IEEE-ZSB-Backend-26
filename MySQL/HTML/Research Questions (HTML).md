@@ -6,7 +6,8 @@
  2-Sends form data **in the URL**
  3-It's good for data that isn't sensitive
  
-**2-post**
+**2-post**:
+
  1-Sends data in the **request body**, not in the URL
  2-Suitable for sensitive data
  3-Doesn’t show data in the URL
