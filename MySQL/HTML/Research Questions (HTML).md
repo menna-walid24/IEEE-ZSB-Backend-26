@@ -1,4 +1,4 @@
-**1- GET vs POST:**
+1- GET vs POST:
 
 **GET:**
 
@@ -25,7 +25,7 @@ When you type  and press Enter, the browser goes through these steps:
 
 1. **DNS Lookup**
     
-    - The browser asks a DNS server for the **IP address **.
+    - The browser asks a DNS server for the IP address.
         
     - DNS is like a phonebook, translating a name into a number (IP).
     
